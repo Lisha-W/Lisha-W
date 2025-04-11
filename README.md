@@ -1,6 +1,14 @@
 ## Hi there, my name is Alicia👋
 
-I’m currently a student making the shift from a career in accounting, where I worked in the marketing field, to data analytics. I’ve always enjoyed working with numbers and problem-solving, which has led me to explore the world of data. Right now, I’m focusing on financial and healthcare data analytics, and I’m excited to use data to uncover insights and help businesses make smarter decisions. I’m eager to bring my analytical skills into this new field and see where it takes me!
+I am currently a graduate student making the career transition to data analytics from accounting, where I worked in the marketing field. I have always enjoyed working with numbers and problem-solving, which has led me to explore the world of data. I am seeking an entry level data analytics position in either finance or healthcare. I am excited to use data analysis and predictive modeling to uncover insights and help businesses make smarter decisions. I am eager to bring my analytical skills into my new career and see where it takes me!
+
+Programing Languages:
+- Python
+- MySQL
+- R
+- Power BI
+- Tableau
+- Microsoft Excel
 <!--
 **Lisha-W/Lisha-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
